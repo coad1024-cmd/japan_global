@@ -2,6 +2,11 @@
 
 ## 1. High-Level Visual Ecosystem Topology
 
+![Japan Global Network Ecosystem Topology](./assets/jgn_ecosystem_topology.jpg)
+
+<details>
+<summary><b>Text & ASCII Topology Structure Backup</b></summary>
+
 ```
 ┌──────────────────────────────────────────────────────────────────────────────────────────┐
 │                                JAPAN GLOBAL NETWORK (JGN)                                │

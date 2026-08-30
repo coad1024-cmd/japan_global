@@ -12,13 +12,14 @@
 │   • Master Vision & Map            • 8 Canonical Identity Cards     • Network State Synthesis    │
 │   • 1-Page Ecosystem Blueprint     • Epistemic Quarantine & Vocab   • 3 Target Audience Playbooks│
 │                                    • Brand Boundary Matrix          • Multi-Persona Msg Matrix   │
-│                                                                                                  │
+│                                                                     • Analogue Intelligence (M9) │
 │                                                ▼                                                 │
 │   [03. CONTENT ENGINE]             [04. CAMPAIGN PLAYBOOKS]         [05. MEASUREMENT & OPS]      │
 │   • 10 Recurring Pillars Catalog   • 3 Core Campaign Blueprints     • Hard vs Vanity Metrics     │
 │   • 6-Stage Transformation SOP     • 3 Landing Page Wireframes      • Full-Funnel KPI Hierarchy  │
 │   • Platform Operating Rubrics     • Copy Swipe Files & Scripts     • 5-Point Binary Review Gate │
 │   • Repurposing & Editorial Cal    • Conversion Funnels & Routing   • Marketing Ops Rhythm SOP   │
+│   • Weekly Ops Dashboard (M10)     • ZuCity Launch Pack (M8)        • Live Readiness Audit (M7)  │
 │                                                                                                  │
 └──────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -64,6 +65,7 @@ All strategy documents, campaign playbooks, landing page blueprints, and operati
 
 ### Module 02: Strategic Narrative & Audience-Specific Value Props (R2)
 - **[02_strategic_narrative_and_value_props/network_state_thesis_synthesis.md](02_strategic_narrative_and_value_props/network_state_thesis_synthesis.md)**: Translating Balaji Srinivasan’s 7-step founding sequence and network archipelago theory into rural Japanese revitalization.
+- **[02_strategic_narrative_and_value_props/analogue_and_competitor_intelligence.md](02_strategic_narrative_and_value_props/analogue_and_competitor_intelligence.md)**: Live intelligence benchmark comparing ZuCity against global network state and popup city analogues (Zuzalu, Cabin, Vitalia, Praxis, Edge Esmeralda, Kift), physical vs. conceptual moats, rural Japanese positioning, and seasonal pricing models (M9).
 - **Audience Playbooks**:
   - **[02_strategic_narrative_and_value_props/audience_playbooks/01_digital_nomads_and_builders.md](02_strategic_narrative_and_value_props/audience_playbooks/01_digital_nomads_and_builders.md)**: Dedicated playbook for global innovators, AI engineers, and popup city participants.
   - **[02_strategic_narrative_and_value_props/audience_playbooks/02_local_japanese_stakeholders.md](02_strategic_narrative_and_value_props/audience_playbooks/02_local_japanese_stakeholders.md)**: Dedicated playbook for Nagano/Komoro municipal governments, Akiya owners, and local artisans in formal Keigo.
@@ -75,6 +77,7 @@ All strategy documents, campaign playbooks, landing page blueprints, and operati
 ### Module 03: Multi-Channel Content Engine & Repurposing Pipeline (R3)
 - **[03_content_engine_and_pipeline/content_pillars_catalog.md](03_content_engine_and_pipeline/content_pillars_catalog.md)**: Comprehensive guide detailing the 10 recurring content pillars (People, Places, Projects, Progress, Culture, Events, Ideas, Tech, Opportunities, Stories).
 - **[03_content_engine_and_pipeline/content_transformation_workflow.md](03_content_engine_and_pipeline/content_transformation_workflow.md)**: 6-stage raw material transformation SOP (Raw Material → Observation → Angle → Platform Format → Distribution → Measurement).
+- **[03_content_engine_and_pipeline/weekly_operations_dashboard.md](03_content_engine_and_pipeline/weekly_operations_dashboard.md)**: Live weekly operations dashboard and rhythm artifact tracking editorial pipeline status (W36), content sprint stages (Planning, Production, Review, Distribution, Measurement), conversion actuals, and incident registers (M10).
 - **Platform Operating Rubrics**:
   - **[03_content_engine_and_pipeline/platform_operating_rubrics/01_x_twitter.md](03_content_engine_and_pipeline/platform_operating_rubrics/01_x_twitter.md)**: High-density X thread and hook operating rubric.
   - **[03_content_engine_and_pipeline/platform_operating_rubrics/02_instagram.md](03_content_engine_and_pipeline/platform_operating_rubrics/02_instagram.md)**: High-aesthetic Reels, Carousels, and Stories operating rubric.
@@ -85,6 +88,8 @@ All strategy documents, campaign playbooks, landing page blueprints, and operati
   - **[03_content_engine_and_pipeline/master_editorial_calendar.md](03_content_engine_and_pipeline/master_editorial_calendar.md)**: Weekly publishing cadence, optimal time slots, and scheduling SOP.
 
 ### Module 04: Actionable Campaign Playbooks & Conversion Architecture (R4)
+- **Live Execution Packs**:
+  - **[04_campaign_playbooks_and_conversion/live_execution_packs/zucity_launch_pack_v1.md](04_campaign_playbooks_and_conversion/live_execution_packs/zucity_launch_pack_v1.md)**: Turnkey launch pack featuring 5 fully formatted X threads (33 tweets <=280 chars), 3 multi-scene Instagram visual briefs/scripts (9:16 Reels & 4:5 Carousel), and 1 comprehensive Discord community announcement (M8).
 - **Campaign Playbooks**:
   - **[04_campaign_playbooks_and_conversion/campaigns/01_popup_city_residency_playbook.md](04_campaign_playbooks_and_conversion/campaigns/01_popup_city_residency_playbook.md)**: 6-phase residency campaign blueprint (Teaser, Applications, Selection, Pre-Arrival, Amplification, Alumni Recap), qualification rubrics, and resident handbook outline.
   - **[04_campaign_playbooks_and_conversion/campaigns/02_accommodations_and_spaces_playbook.md](04_campaign_playbooks_and_conversion/campaigns/02_accommodations_and_spaces_playbook.md)**: Year-round booking engine for individual nomads, remote teams, and corporate offsites, listing optimization for `zucity.org/en/all`, and 4 seasonal campaigns.
@@ -101,6 +106,7 @@ All strategy documents, campaign playbooks, landing page blueprints, and operati
   - **[04_campaign_playbooks_and_conversion/conversion_funnels_and_cta_ladders.md](04_campaign_playbooks_and_conversion/conversion_funnels_and_cta_ladders.md)**: 6-stage CTA optimization ladder, micro vs. macro conversions, and strict live surface routing topology.
 
 ### Module 05: Measurement Framework & Performance Operations (R5)
+- **[05_measurement_and_performance_ops/live_blockers_and_readiness_audit.md](05_measurement_and_performance_ops/live_blockers_and_readiness_audit.md)**: Comprehensive 10-point operational readiness audit classifying all 42+ Marketing OS assets, live endpoint verification register (100% 200 OK), P0/P1 blocker triage, credential requirements, and deployment sign-off matrix (M7).
 - **[05_measurement_and_performance_ops/metrics_framework_and_dashboards.md](05_measurement_and_performance_ops/metrics_framework_and_dashboards.md)**: Comprehensive matrix separating hard business outcomes (bookings, GMV, Akiya leases, NPS) from tertiary vanity metrics, instrumentation stack, and executive dashboard specs.
 - **[05_measurement_and_performance_ops/funnel_kpis_and_feedback_loops.md](05_measurement_and_performance_ops/funnel_kpis_and_feedback_loops.md)**: Full-funnel KPI hierarchy (TOFU → MOFU → BOFU → Retention), hybrid multi-touch attribution modeling, and 3 continuous learning loops.
 - **[05_measurement_and_performance_ops/pre_publication_review_rubric.md](05_measurement_and_performance_ops/pre_publication_review_rubric.md)**: The 5-point binary gatekeeper review checklist (Epistemic Truth, Entity Routing, Voice/Lexicon Check, Live Surface Validation, Actionable CTA) and veto authority SOP.
